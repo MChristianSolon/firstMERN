@@ -1,1 +1,1 @@
-# firstMERN
+# First Solo Mern Project, Practice
